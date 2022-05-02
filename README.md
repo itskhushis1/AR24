@@ -1,2 +1,2 @@
-# AR24
+# AR 24
 Spark AR affect
